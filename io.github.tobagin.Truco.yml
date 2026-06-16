@@ -40,3 +40,4 @@ modules:
         url: https://github.com/tobagin/Truco.git
         tag: v1.0.0
         commit: 3b2db399ece3f97a14819c6694bcd5679c26ee45
+# openpak build trigger
